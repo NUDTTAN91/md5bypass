@@ -6,3 +6,5 @@
 然后访问即可进入题目
 
 动态flag配合CTF平台使用
+
+WriteUp：`https://zxw-nudt.blog.csdn.net/article/details/121705529`
